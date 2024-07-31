@@ -270,7 +270,7 @@
                         <div class="big-text r-text da-text ">03</div>
                         <div class="wrap-titleporto">
                             <p class="title-detail">portfolio</p>
-                            <h3>Our <span class="sec-word">work</span></h3>
+                            <h3>My <span class="sec-word">project</span></h3>
                         </div>
                     </div>
                     <div class="col-lg-6">
